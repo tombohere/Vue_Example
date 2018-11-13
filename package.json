@@ -1,0 +1,16 @@
+{
+  "name": "Vue Router Example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/znj7r70wv3",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "4.10.0",
+    "vee-validate": "2.0.4",
+    "vue": "2.5.13",
+    "vue-localstorage": "0.6.1",
+    "vue-router": "3.0.1",
+    "vuefire": "1.4.5"
+  }
+}
